@@ -1,7 +1,7 @@
 # Extension directus
 
 ## Step-1: Posizione della cartella 'kdm-upload'
-La cartella 'kdm-upload' va copata allo stesso livello del progetto directus "compilato"
+La cartella 'kdm-upload' va copiata allo stesso livello del progetto directus "compilato"
 
 **- ESEMPIO**
 
